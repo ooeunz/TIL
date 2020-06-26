@@ -18,3 +18,9 @@
 때때로 스프링 배치를 스케줄러와 비교하게 되는데, 이 둘은 완전히 다른 역할을 하게 됩니다. spring.io 공식 레퍼런스에 따르면 이와 같이 설명합니다. Spring Batch is not a scheduling framework. There are many good enterprise schedulers (such as Quartz, Tivoli, Control-M, etc.) available in both the commercial and open source spaces. It is intended to work in conjunction with a scheduler, not replace a scheduler.
 
 즉, 스프링 배치는 비즈니스 로직 자체에 집중하고 스케줄러에 관해서는 Quartz오 같은 섣파티 프레임워크를 사용하게 됩니다.
+
+### Spring Batch vs DB Procedure
+Spring Batch의 단계를 살펴보면
+1. 읽기(read)
+2. 처리(processiong)
+3. 쓰기(write)의 단계를 거치게 됩니다.
