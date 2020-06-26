@@ -1,0 +1,20 @@
+# Spring Batch
+
+### 배치 애플리케이션이란?
+스프링 배치란 대용량의 데이터를 클라이언트와 소통하지 않고 애플리케이션 단독으로 처리하는 프레임워크를 이야기합니다.
+
+배치 애플리케이션은 API를 통해 통신하지 않고 스스로 일하며, 중간에 실패를 하게 되더라도 실패한 부분부터 다시 실행할 수 있다는 장점이 있습니다.
+
+스프링 배치의 특징은 아래와 같습니다.
+* 대용량 데이터: 배치 애플리케이션은 대량의 데이터를 가져오거나, 전달하거나, 계싼하는 등의 처리를 할 수 있어야합니다.
+* 자동화: 심각한 문제 해결을 제외하고는 사용자의 개입없이 실행되어야 합니다.
+* 견고성: 잘못된 데이터 충돌/중단 없이 처리할 수 있어야 합니다.
+* 신뢰성: 로깅이나 알림을 통해 중간에 무엇이 잘못되었는지 알 수 있어야 합니다.
+* 성능: 지정시간 안에 처리를 완료하거나 다른 애플리케이션을 방해하지 않도록 수행되어야합니다.
+
+스프링 배치는 기존의 DI, AOP, 서비스 추상화 등과 같은 Spring 프레임워크의 특징들을 그대로 사용할 수 있습니다.
+
+### Batch vs Quartz
+때때로 스프링 배치를 스케줄러와 비교하게 되는데, 이 둘은 완전히 다른 역할을 하게 됩니다. spring.io 공식 레퍼런스에 따르면 이와 같이 설명합니다. Spring Batch is not a scheduling framework. There are many good enterprise schedulers (such as Quartz, Tivoli, Control-M, etc.) available in both the commercial and open source spaces. It is intended to work in conjunction with a scheduler, not replace a scheduler.
+
+즉, 스프링 배치는 비즈니스 로직 자체에 집중하고 스케줄러에 관해서는 Quartz오 같은 섣파티 프레임워크를 사용하게 됩니다.
