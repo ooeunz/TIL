@@ -1,7 +1,11 @@
 # TIL
 :octocat: Today I Learned. 그날 그날 모든 활동들을 정리
 
-2020-07-05
-kafka 개론 공부:ㅈㅂ!
-:wq!
-`
+### 2020-06-26 (금)
+* 스프링 배치 공부 및 포스팅
+* 예제 코드 따라 공부해보기
+* [참고 Reference](https://jojoldu.tistory.com/324?category=902551)
+
+### 2020-07-06 (월)
+* [kafka zookeeper](https://ooeunz.tistory.com/113)
+* [kafka 디자인 모델](https://ooeunz.tistory.com/114)
