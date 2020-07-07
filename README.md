@@ -3,6 +3,7 @@
 
 ### 2020-07-06 (월)
 * [kafka 데이터 모델](https://ooeunz.tistory.com/115)
+* JPA - 기본키 맵핑 (시퀀스 전략 성능 최적화)
 
 ### 2020-07-06 (월)
 * [kafka zookeeper](https://ooeunz.tistory.com/113)
