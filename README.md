@@ -2,6 +2,9 @@
 :octocat: Today I Learned. 그날 그날 모든 활동들을 정리
 
 ### 2020-07-06 (월)
+* [kafka 데이터 모델](https://ooeunz.tistory.com/115)
+
+### 2020-07-06 (월)
 * [kafka zookeeper](https://ooeunz.tistory.com/113)
 * [kafka 디자인 모델](https://ooeunz.tistory.com/114)
 
