@@ -1,7 +1,10 @@
 # TIL
 :octocat: Today I Learned. 그날 그날 모든 활동들을 정리
 
-### 2020-07-06 (월)
+### 2020-07-09 (목)
+* [docker-compose](https://ooeunz.tistory.com/116)
+
+### 2020-07-08 (수)
 * [kafka 데이터 모델](https://ooeunz.tistory.com/115)
 * JPA - 기본키 맵핑 (시퀀스 전략 성능 최적화)
 
