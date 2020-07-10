@@ -1,6 +1,9 @@
 # TIL
 :octocat: Today I Learned. 그날 그날 모든 활동들을 정리
 
+### 2020-07-10 (금)
+* [kubernetes 기본 구조 개념](https://ooeunz.tistory.com/118)
+
 ### 2020-07-09 (목)
 * [docker-compose](https://ooeunz.tistory.com/116)
 
