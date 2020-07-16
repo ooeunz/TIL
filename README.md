@@ -1,9 +1,11 @@
 # TIL
 :octocat: Today I Learned. 그날 그날 모든 활동들을 정리
 
-### 2020-07-16
-- [Kubernetes Controller: Pod를 동적으로 관리](https://ooeunz.tistory.com/121?category=837108)
+### 2020-07-16 (목)
 - [Service / Ingress: L4 L7 Load Balancer](https://ooeunz.tistory.com/123?category=837108)
+
+### 2020-07-15 (수)
+- [Kubernetes Controller: Pod를 동적으로 관리](https://ooeunz.tistory.com/121?category=837108)
 
 ### 2020-07-13 (월)
 - [kubernetes 셀프 힐링 및 자원 할당](https://ooeunz.tistory.com/120?category=837108)
