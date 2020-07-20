@@ -1,6 +1,9 @@
 # TIL
 :octocat: Today I Learned. 그날 그날 모든 활동들을 정리
 
+### 2020-07-20 (월)
+- [k8s volume](https://ooeunz.tistory.com/127)
+
 ### 2020-07-17 (금)
 - [Rolling Update (Deployment): 무중단 배포](https://ooeunz.tistory.com/124)
 
