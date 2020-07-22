@@ -3,6 +3,7 @@
 
 ### 2020-07-22 (수)
 - [k8s configmap secret](https://ooeunz.tistory.com/128)
+- [Helm: template package managing tool](https://ooeunz.tistory.com/129)
 
 ### 2020-07-20 (월)
 - [k8s volume](https://ooeunz.tistory.com/127)
