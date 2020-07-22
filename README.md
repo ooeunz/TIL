@@ -2,11 +2,11 @@
 :octocat: Today I Learned. 그날 그날 모든 활동들을 정리
 
 ### 2020-07-22 (수)
-- [k8s configmap secret](https://ooeunz.tistory.com/128)
+- [ConfigMap / Secret: config 정보를 container 외부에서 가져오기](https://ooeunz.tistory.com/128)
 - [Helm: template package managing tool](https://ooeunz.tistory.com/129)
 
 ### 2020-07-20 (월)
-- [k8s volume](https://ooeunz.tistory.com/127)
+- [Volume: k8s에서 데이터를 Disk에 영구 저장하기](https://ooeunz.tistory.com/127)
 
 ### 2020-07-17 (금)
 - [Rolling Update (Deployment): 무중단 배포](https://ooeunz.tistory.com/124)
