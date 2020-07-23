@@ -1,6 +1,9 @@
 # TIL
 :octocat: Today I Learned. 그날 그날 모든 활동들을 정리
 
+### 2020-07-23 (목)
+- [gRPC: MSA에서 서비스 간 저용량 고성능으로 통신하기](https://ooeunz.tistory.com/130?category=849959)
+
 ### 2020-07-22 (수)
 - [ConfigMap / Secret: config 정보를 container 외부에서 가져오기](https://ooeunz.tistory.com/128)
 - [Helm: template package managing tool](https://ooeunz.tistory.com/129)
