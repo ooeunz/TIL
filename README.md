@@ -1,6 +1,9 @@
 # TIL
 :octocat: Today I Learned. 그날 그날 모든 활동들을 정리
 
+### 2020-07-24 (금)
+- [PRoducer: kafka broker로 메시지 보내기 (sync, aync)](https://ooeunz.tistory.com/117)
+
 ### 2020-07-23 (목)
 - [gRPC: MSA에서 서비스 간 저용량 고성능으로 통신하기](https://ooeunz.tistory.com/130?category=849959)
 - [Producer #1: kafka broker로 메시지 보내기(sync, async)](https://ooeunz.tistory.com/117)
