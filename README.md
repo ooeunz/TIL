@@ -2,7 +2,8 @@
 :octocat: Today I Learned. 그날 그날 모든 활동들을 정리
 
 ### 2020-07-26 (일)
-- [PRoducer: kafka broker로 메시지 보내기 (sync, aync)](https://ooeunz.tistory.com/117)
+- [Intent / Entity 활용: 자연어 처리 성능 올리기](https://ooeunz.tistory.com/134)
+- [Babel / Webpack: 트랜스 컴파일러와 JS모듈 번들러](https://ooeunz.tistory.com/133)
 
 ### 2020-07-27 (토)
 - [React를 왜 사용하는 걸까?](https://ooeunz.tistory.com/126)
