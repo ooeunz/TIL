@@ -1,6 +1,9 @@
 # TIL
 :octocat: Today I Learned. 그날 그날 모든 활동들을 정리
 
+### 2020-07-28 (화)
+- [Kafka Streams API: strema processing](https://ooeunz.tistory.com/137)
+
 ### 2020-07-27 (월)
 - [Consumer: kafka broker로부터 메시지 가져오기](https://ooeunz.tistory.com/136)
 
