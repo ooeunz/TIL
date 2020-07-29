@@ -3,6 +3,7 @@
 
 ### 2020-07-28 (화)
 - 스프링 부트와 AWS로 혼자 구현하는 웹 서비스
+- Kravel: Swager / DI 생성자 주입으로 변경(lombok)
 
 ### 2020-07-28 (화)
 - [Kafka Streams API: strema processing](https://ooeunz.tistory.com/137)
