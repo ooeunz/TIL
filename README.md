@@ -5,6 +5,7 @@
 - 자바 ORM 표준 JPA 프로그래밍 - 기본편
 	- 일대일 [1:1]
 	- 다대다 [N:M]
+	- 실전 예제 3 - 다양한 연관관계 매핑
 
 ### 2020-08-01 (토)
 - [[React.js] 생명 주기 메서드(life cycle method)과 Virtual DOM이 렌더링 되는 과정](https://ooeunz.tistory.com/138)
