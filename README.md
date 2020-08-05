@@ -1,6 +1,13 @@
 # TIL
 :octocat: Today I Learned. 그날 그날 모든 활동들을 정리
 
+### 2020-08-05 (수)
+- 자바 ORM 표준 JPA 프로그래밍 - 기본편
+	- 상속관계 매핑
+	- Mapped Superclass - 매핑 정보 상속
+	- 실전 예제 4 - 상속관계 매핑
+	- 프록시
+	
 ### 2020-08-04 (화)
 - Work Architecture 파악 (Batch processor, config application)
 
