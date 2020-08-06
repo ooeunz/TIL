@@ -4,8 +4,8 @@
 ### 2020-08-06 (목)
 - 자바 ORM 표준 JPA 프로그래밍 - 기본편
 	- 영속성 전이(CASCADE)와 고아 객체
-	- React.js Hook
-	- Javascript Redux
+- React.js Hook
+- Javascript Redux
 
 ### 2020-08-05 (수)
 - 자바 ORM 표준 JPA 프로그래밍 - 기본편
