@@ -1,6 +1,12 @@
 # TIL
 :octocat: Today I Learned. 그날 그날 모든 활동들을 정리
 
+### 2020-08-08 (토)
+- React Redux
+
+### 2020-08-07 (금)
+- Javascript Redux
+
 ### 2020-08-06 (목)
 - 자바 ORM 표준 JPA 프로그래밍 - 기본편
 	- 영속성 전이(CASCADE)와 고아 객체
