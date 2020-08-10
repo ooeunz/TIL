@@ -1,6 +1,9 @@
 # TIL
 :octocat: Today I Learned. 그날 그날 모든 활동들을 정리
 
+### 2020-08-10 (월)
+- Kubernetes: prometheus monitoring tool
+
 ### 2020-08-08 (토)
 - React Redux
 
