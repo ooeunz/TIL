@@ -1,6 +1,8 @@
 # TIL
 :octocat: Today I Learned. 그날 그날 모든 활동들을 정리
 
+### 2020-08-05 ()
+
 ### 2020-08-04 (화)
 - Work Architecture 파악 (Batch processor, config application)
 
