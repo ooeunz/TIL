@@ -1,6 +1,9 @@
 # TIL
 :octocat: Today I Learned. 그날 그날 모든 활동들을 정리
 
+### 2020-08-14 (수)
+- Prometheus: HTTP api
+
 ### 2020-08-13 (화)
 - GitKraken: Setting profile to github and githubenterprise
 
