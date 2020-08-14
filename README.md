@@ -1,6 +1,9 @@
 # TIL
 :octocat: Today I Learned. 그날 그날 모든 활동들을 정리
 
+### 2020-08-14 (금)
+- Helm: prometheus install
+
 ### 2020-08-13 (목)
 - Issue: node_cpu_seconds_total api가 작동안함.
 
