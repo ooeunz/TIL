@@ -8,6 +8,8 @@
 - Javascript
 	- Optional parameter.
 	- Array to Object using reduce.
+- Effective Java 3/E
+	- Item01: 생성자 대신 정적 팩터리 메서드를 고려하라
 
 ### 2020-08-14 (금)
 - Helm: prometheus install
