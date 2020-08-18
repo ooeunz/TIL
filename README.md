@@ -1,6 +1,9 @@
 # TIL
 :octocat: Today I Learned. 그날 그날 모든 활동들을 정리
 
+### 2020-08-18 (토)
+- Prometheus: nodeport yaml
+
 ### 2020-08-15 (금)
 - Javascript
 	- Optional parameter.
