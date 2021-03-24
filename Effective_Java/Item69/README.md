@@ -33,12 +33,12 @@ Java는 더 빠른 실행을 위해서 메서드에서 명령을 재배열하는
 ##### 예외 처리 성능
 > SIZE는 10만
 
-[!image](./exception_code.png)
+![image](./exception_code.png)
 첫번째 코드의 경우 i가 홀수일 경우 null pointer exception을 throw 하여 바깥부분에서 catch하도록 하였다.
 두번째 코드의 경우 null pointer exception이 발생할 부분인 list.add() 를 try catch로 감싸도록 하였다.
 마지막 코드의 경우 null pointer exception이 발생하지 않도록 방어 코딩을 하였다.
 
-[!image](./result.png)
+![image](./result.png)
 
 코드에서 직접 NullPointerException을 보내는것(첫번째 예제)과 JVM에서 NullPointerException을 보내는 것(두번째 예제)에는 큰 차이가 난다.
 즉, JVM은 필요할때마다 새로 생성하지 않고, 동일한 Exception 객체를 재사용 한다는 것이다.
